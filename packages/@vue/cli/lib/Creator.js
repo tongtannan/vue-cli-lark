@@ -124,7 +124,7 @@ module.exports = class Creator extends EventEmitter {
 
     // legacy support for vuex
     if (preset.vuex) {
-      preset.plugins['@vue/cli-plugin-vuex'] = {}
+      // preset.plugins['@vue/cli-plugin-vuex'] = {}
     }
 
     const packageManager = (
