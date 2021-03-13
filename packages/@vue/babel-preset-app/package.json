@@ -1,6 +1,6 @@
 {
   "name": "@vue/babel-preset-app",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "babel-preset-app for vue-cli",
   "main": "index.js",
   "publishConfig": {
