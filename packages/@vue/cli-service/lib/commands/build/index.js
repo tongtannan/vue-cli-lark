@@ -216,7 +216,7 @@ async function build (args, api, options) {
         if (args.target === 'app' && !isLegacyBuild) {
           if (!args.watch) {
             done(`Build complete. The ${chalk.cyan(targetDirShort)} directory is ready to be deployed.`)
-            info(`Check out deployment instructions at ${chalk.cyan(`https://cli.vuejs.org/guide/deployment.html`)}\n`)
+            // info(`Check out deployment instructions at ${chalk.cyan(`https://cli.vuejs.org/guide/deployment.html`)}\n`)
           } else {
             done(`Build complete. Watching for changes...`)
           }

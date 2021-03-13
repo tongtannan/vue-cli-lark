@@ -51,5 +51,6 @@
     "vue": {
       "optional": true
     }
-  }
+  },
+  "gitHead": "db5178f04ea4da651d24fd22c2c2777a249e7910"
 }
