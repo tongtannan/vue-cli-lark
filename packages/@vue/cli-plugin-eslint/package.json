@@ -34,5 +34,5 @@
     "@vue/cli-service": "^3.0.0 || ^4.0.0-0",
     "eslint": ">= 1.6.0 < 7.0.0"
   },
-  "gitHead": "8e87e68fd2b5579b9ed527a2e14aab141f709a4c"
+  "gitHead": "e0ecd7904eca23313a2abbb59acbb649d7c3edea"
 }
