@@ -110,8 +110,7 @@ const release = async () => {
   lernaArgs.push('--force-publish')
 
   if (cliOptions['local-registry']) {
-    // lernaArgs.push('--no-git-tag-version', '--no-commit-hooks', '--no-push', '--yes')
-    lernaArgs.push('--no-git-tag-version', '--yes')
+    lernaArgs.push('--no-git-tag-version', '--no-commit-hooks', '--no-push', '--yes')
   }
 
   await execa(require.resolve('lerna/cli'), lernaArgs, { stdio: 'inherit' })
