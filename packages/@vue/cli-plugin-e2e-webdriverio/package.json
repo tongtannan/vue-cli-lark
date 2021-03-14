@@ -63,5 +63,5 @@
     "wdio-chromedriver-service": "^6.0.3",
     "wdio-geckodriver-service": "^1.1.0"
   },
-  "gitHead": "c5f908287fdddb13773738c542735cd188613258"
+  "gitHead": "8b97c47582f2be31e75879a604b95dffb11090fd"
 }

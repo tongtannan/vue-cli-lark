@@ -1,24 +1,15 @@
 {
-  "name": "@vue/cli-shared-utils",
+  "name": "cli-shared-utils-ttn",
   "version": "0.1.19",
   "description": "shared utilities for vue-cli packages",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vuejs/vue-cli.git",
-    "directory": "packages/@vue/cli-shared-utils"
-  },
   "keywords": [
     "vue",
     "cli",
     "cli-shared-utils"
   ],
-  "author": "Evan You",
+  "author": "tongtannan",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/vuejs/vue-cli/issues"
-  },
-  "homepage": "https://github.com/vuejs/vue-cli/tree/dev/packages/@vue/cli-shared-utils#readme",
   "dependencies": {
     "@hapi/joi": "^15.0.1",
     "chalk": "^2.4.2",
@@ -36,5 +27,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "c5f908287fdddb13773738c542735cd188613258"
+  "gitHead": "8b97c47582f2be31e75879a604b95dffb11090fd"
 }

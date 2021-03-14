@@ -1,5 +1,5 @@
 {
-  "name": "@vue-cli/lark",
+  "name": "@vue-cli/ttn",
   "version": "0.1.19",
   "description": "Command line interface for rapid Vue.js development",
   "bin": {
@@ -10,7 +10,7 @@
     "vue",
     "cli"
   ],
-  "author": "TTN",
+  "author": "tongtannan",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
@@ -55,5 +55,5 @@
   "engines": {
     "node": ">=8.9"
   },
-  "gitHead": "c5f908287fdddb13773738c542735cd188613258"
+  "gitHead": "8b97c47582f2be31e75879a604b95dffb11090fd"
 }
