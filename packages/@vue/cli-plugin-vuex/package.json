@@ -1,5 +1,5 @@
 {
-  "name": "@vue/cli-plugin-vuex-ttn1",
+  "name": "cli-plugin-vuex-ttn1",
   "version": "0.1.18",
   "description": "Vuex plugin for vue-cli",
   "main": "index.js",
@@ -19,5 +19,5 @@
   "peerDependencies": {
     "@vue/cli-service": "^3.0.0 || ^4.0.0-0"
   },
-  "gitHead": "b7f6f534010b1e195a2917dc67865488ade86378"
+  "gitHead": "c5f908287fdddb13773738c542735cd188613258"
 }

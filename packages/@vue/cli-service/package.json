@@ -1,5 +1,5 @@
 {
-  "name": "@vue/cli-service",
+  "name": "cli-service-ttn1",
   "version": "0.1.18",
   "description": "local service for vue-cli projects",
   "main": "lib/Service.js",
@@ -7,21 +7,12 @@
   "bin": {
     "vue-cli-service": "bin/vue-cli-service.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vuejs/vue-cli.git",
-    "directory": "packages/@vue/cli-service"
-  },
   "keywords": [
     "vue",
     "cli"
   ],
-  "author": "Evan You",
+  "author": "tongtannan",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/vuejs/vue-cli/issues"
-  },
-  "homepage": "https://cli.vuejs.org/",
   "dependencies": {
     "@intervolga/optimize-cssnano-plugin": "^1.0.5",
     "@soda/friendly-errors-webpack-plugin": "^1.7.1",
@@ -123,6 +114,5 @@
   },
   "engines": {
     "node": ">=8"
-  },
-  "gitHead": "b7f6f534010b1e195a2917dc67865488ade86378"
+  }
 }
