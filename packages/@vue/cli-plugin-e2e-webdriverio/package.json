@@ -1,6 +1,6 @@
 {
   "name": "cli-plugin-e2e-webdriverio-ttn",
-  "version": "0.1.20",
+  "version": "0.1.21",
   "description": "e2e-webdriverio plugin for vue-cli",
   "main": "index.js",
   "keywords": [

@@ -1,6 +1,6 @@
 {
   "name": "cli-plugin-unit-jest-ttn",
-  "version": "0.1.20",
+  "version": "0.1.21",
   "description": "unit-jest plugin for vue-cli",
   "main": "index.js",
   "keywords": [

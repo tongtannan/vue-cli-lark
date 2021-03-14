@@ -1,6 +1,6 @@
 {
   "name": "cli-test-utils-ttn",
-  "version": "0.1.20",
+  "version": "0.1.21",
   "description": "test utilities for vue-cli packages",
   "keywords": [
     "vue",
