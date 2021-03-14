@@ -1,6 +1,6 @@
 {
   "name": "cli-plugin-pwa-ttn",
-  "version": "0.1.22",
+  "version": "0.1.23",
   "description": "pwa plugin for vue-cli",
   "main": "index.js",
   "keywords": [

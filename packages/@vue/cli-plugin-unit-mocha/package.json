@@ -1,6 +1,6 @@
 {
   "name": "cli-plugin-unit-mocha-ttn",
-  "version": "0.1.22",
+  "version": "0.1.23",
   "description": "mocha unit testing plugin for vue-cli",
   "main": "index.js",
   "keywords": [

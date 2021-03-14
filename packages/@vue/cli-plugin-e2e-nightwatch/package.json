@@ -1,6 +1,6 @@
 {
   "name": "cli-plugin-e2e-nightwatch-ttn",
-  "version": "0.1.22",
+  "version": "0.1.23",
   "description": "e2e-nightwatch plugin for vue-cli",
   "main": "index.js",
   "keywords": [
