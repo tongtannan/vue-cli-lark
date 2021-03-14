@@ -1,6 +1,6 @@
 {
   "name": "cli-plugin-e2e-cypress-ttn",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "description": "e2e-cypress plugin for vue-cli",
   "main": "index.js",
   "keywords": [
