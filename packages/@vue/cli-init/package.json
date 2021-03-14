@@ -19,5 +19,6 @@
   "dependencies": {
     "execa": "^1.0.0",
     "vue-cli": "^2.9.2"
-  }
+  },
+  "gitHead": "51e4c032bcb9a0195fd91721b78b698444641c1c"
 }
