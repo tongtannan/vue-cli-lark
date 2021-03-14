@@ -1,5 +1,5 @@
 {
-  "name": "@vue/cli-plugin-vuex-ttn",
+  "name": "@vue/cli-plugin-vuex-ttn1",
   "version": "0.1.17",
   "description": "Vuex plugin for vue-cli",
   "main": "index.js",
@@ -10,10 +10,6 @@
   ],
   "author": "tongtannan",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/vuejs/vue-cli/issues"
-  },
-  "homepage": "https://github.com/vuejs/vue-cli/tree/dev/packages/@vue/cli-plugin-vuex#readme",
   "publishConfig": {
     "access": "public"
   },
@@ -23,5 +19,5 @@
   "peerDependencies": {
     "@vue/cli-service": "^3.0.0 || ^4.0.0-0"
   },
-  "gitHead": "f71cb2d466f0e7368981c5ca32ad0b7ca933e4b2"
+  "gitHead": "b7f6f534010b1e195a2917dc67865488ade86378"
 }
