@@ -1,6 +1,6 @@
 {
   "name": "@vue/cli-ui-addon-widgets",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vuejs/vue-cli.git",
@@ -18,8 +18,8 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^0.1.18",
-    "@vue/cli-plugin-eslint": "^0.1.18",
+    "@vue/cli-plugin-babel": "^0.1.19",
+    "@vue/cli-plugin-eslint": "^0.1.19",
     "@vue/cli-service": "^0.1.18",
     "@vue/eslint-config-standard": "^5.1.2",
     "core-js": "^3.6.5",
