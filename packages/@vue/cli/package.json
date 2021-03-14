@@ -1,6 +1,6 @@
 {
   "name": "@vue-cli/ttn",
-  "version": "0.1.19",
+  "version": "0.1.20",
   "description": "Command line interface for rapid Vue.js development",
   "bin": {
     "vue": "bin/vue.js"
@@ -19,9 +19,9 @@
     "@types/ejs": "^2.7.0",
     "@types/inquirer": "^6.5.0",
     "@vue/cli-shared-utils": "^0.1.19",
-    "@vue/cli-ui": "^0.1.19",
-    "@vue/cli-ui-addon-webpack": "^0.1.19",
-    "@vue/cli-ui-addon-widgets": "^0.1.19",
+    "@vue/cli-ui": "^0.1.20",
+    "@vue/cli-ui-addon-webpack": "^0.1.20",
+    "@vue/cli-ui-addon-widgets": "^0.1.20",
     "boxen": "^4.1.0",
     "cmd-shim": "^3.0.3",
     "commander": "^2.20.0",

@@ -1,6 +1,6 @@
 {
   "name": "cli-service-ttn1",
-  "version": "0.1.19",
+  "version": "0.1.20",
   "description": "local service for vue-cli projects",
   "main": "lib/Service.js",
   "typings": "types/index.d.ts",
@@ -21,7 +21,7 @@
     "@types/webpack": "^4.0.0",
     "@types/webpack-dev-server": "^3.11.0",
     "@vue/cli-overlay": "^0.1.13",
-    "@vue/cli-plugin-router": "^0.1.19",
+    "@vue/cli-plugin-router": "^0.1.20",
     "@vue/cli-plugin-vuex": "^0.1.11",
     "@vue/cli-shared-utils": "^0.1.19",
     "@vue/component-compiler-utils": "^3.1.2",

@@ -1,6 +1,6 @@
 {
   "name": "@vue/cli-plugin-unit-mocha",
-  "version": "0.1.19",
+  "version": "0.1.20",
   "description": "mocha unit testing plugin for vue-cli",
   "main": "index.js",
   "repository": {
