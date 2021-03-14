@@ -1,6 +1,6 @@
 {
   "name": "@vue/cli-plugin-vuex-ttn",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "Vuex plugin for vue-cli",
   "main": "index.js",
   "keywords": [
@@ -18,7 +18,7 @@
     "access": "public"
   },
   "devDependencies": {
-    "@vue/cli-test-utils": "^0.1.13"
+    "@vue/cli-test-utils": "^0.1.14"
   },
   "peerDependencies": {
     "@vue/cli-service": "^3.0.0 || ^4.0.0-0"
