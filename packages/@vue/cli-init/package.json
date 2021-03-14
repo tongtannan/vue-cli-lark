@@ -1,21 +1,16 @@
 {
-  "name": "@vue/cli-init",
+  "name": "@vue/cli-init-ttn",
   "version": "0.1.10",
   "description": "init addon for vue-cli",
   "main": "index.js",
   "publishConfig": {
     "access": "public"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vuejs/vue-cli.git",
-    "directory": "packages/@vue/cli-init"
-  },
   "keywords": [
     "vue",
     "cli"
   ],
-  "author": "Evan You",
+  "author": "TTN",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vuejs/vue-cli/issues"
@@ -25,5 +20,5 @@
     "execa": "^1.0.0",
     "vue-cli": "^2.9.2"
   },
-  "gitHead": "7fc9b0b2dd30490ccedad0380cb30e5159375558"
+  "gitHead": "b43de38b848f3f23ef285012247fb5c59d011ede"
 }
