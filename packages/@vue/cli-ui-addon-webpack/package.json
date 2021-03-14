@@ -1,11 +1,6 @@
 {
-  "name": "@vue/cli-ui-addon-webpack",
+  "name": "cli-ui-addon-webpack-ttn",
   "version": "0.1.20",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vuejs/vue-cli.git",
-    "directory": "packages/@vue/cli-ui-addon-webpack"
-  },
   "files": [
     "dist",
     "src"
@@ -43,5 +38,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "8b97c47582f2be31e75879a604b95dffb11090fd"
+  "gitHead": "cefc53dc26a4244f765d82ce36df4cbadd737305"
 }

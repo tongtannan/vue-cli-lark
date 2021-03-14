@@ -1,26 +1,17 @@
 {
-  "name": "@vue/cli-service-global",
+  "name": "cli-service-global-ttn",
   "version": "0.1.20",
   "description": "vue-cli-service global addon for vue-cli",
   "main": "index.js",
   "publishConfig": {
     "access": "public"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vuejs/vue-cli.git",
-    "directory": "packages/@vue/cli-service-global"
-  },
   "keywords": [
     "vue",
     "cli"
   ],
-  "author": "Evan You",
+  "author": "tongtannan",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/vuejs/vue-cli/issues"
-  },
-  "homepage": "https://github.com/vuejs/vue-cli/tree/dev/packages/@vue/cli-service-global#readme",
   "dependencies": {
     "@vue/cli-plugin-babel": "^0.1.20",
     "@vue/cli-plugin-eslint": "^0.1.20",
@@ -35,5 +26,5 @@
     "vue": "^2.6.11",
     "vue-template-compiler": "^2.6.11"
   },
-  "gitHead": "8b97c47582f2be31e75879a604b95dffb11090fd"
+  "gitHead": "cefc53dc26a4244f765d82ce36df4cbadd737305"
 }

@@ -1,24 +1,15 @@
 {
-  "name": "@vue/cli-plugin-eslint",
+  "name": "cli-plugin-eslint-ttn",
   "version": "0.1.20",
   "description": "eslint plugin for vue-cli",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vuejs/vue-cli.git",
-    "directory": "packages/@vue/cli-plugin-eslint"
-  },
   "keywords": [
     "vue",
     "cli",
     "eslint"
   ],
-  "author": "Evan You",
+  "author": "tongtannan",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/vuejs/vue-cli/issues"
-  },
-  "homepage": "https://github.com/vuejs/vue-cli/tree/dev/packages/@vue/cli-plugin-eslint#readme",
   "publishConfig": {
     "access": "public"
   },
@@ -34,5 +25,5 @@
     "@vue/cli-service": "^3.0.0 || ^4.0.0-0",
     "eslint": ">= 1.6.0 < 7.0.0"
   },
-  "gitHead": "8b97c47582f2be31e75879a604b95dffb11090fd"
+  "gitHead": "cefc53dc26a4244f765d82ce36df4cbadd737305"
 }

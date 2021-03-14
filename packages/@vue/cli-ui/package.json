@@ -1,11 +1,6 @@
 {
-  "name": "@vue/cli-ui",
+  "name": "cli-ui-ttn",
   "version": "0.1.20",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vuejs/vue-cli.git",
-    "directory": "packages/@vue/cli-ui"
-  },
   "scripts": {
     "serve": "cross-env VUE_APP_CLI_UI_URL=ws://localhost:4030/graphql VUE_APP_GRAPHQL_PORT=4030 vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -112,7 +107,7 @@
   ],
   "main": "index.js",
   "license": "MIT",
-  "author": "Guillaume Chau",
+  "author": "tongtannan",
   "engines": {
     "node": ">=8"
   },
@@ -137,5 +132,5 @@
       "ui-dev.js"
     ]
   },
-  "gitHead": "8b97c47582f2be31e75879a604b95dffb11090fd"
+  "gitHead": "cefc53dc26a4244f765d82ce36df4cbadd737305"
 }
