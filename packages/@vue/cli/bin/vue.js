@@ -145,14 +145,14 @@ program
     require('../lib/ui')(cleanArgs(cmd))
   })
 
-program
-  .command('init <template> <app-name>')
-  .description('generate a project from a remote template (legacy API, requires @vue/cli-init)')
-  .option('-c, --clone', 'Use git clone when fetching remote template')
-  .option('--offline', 'Use cached template')
-  .action(() => {
-    loadCommand('init', '@vue/cli-init')
-  })
+// program
+//   .command('init <template> <app-name>')
+//   .description('generate a project from a remote template (legacy API, requires @vue/cli-init)')
+//   .option('-c, --clone', 'Use git clone when fetching remote template')
+//   .option('--offline', 'Use cached template')
+//   .action(() => {
+//     loadCommand('init', '@vue/cli-init')
+//   })
 
 program
   .command('config [value]')

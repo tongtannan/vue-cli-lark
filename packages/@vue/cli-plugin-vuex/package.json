@@ -28,5 +28,5 @@
   "peerDependencies": {
     "@vue/cli-service": "^3.0.0 || ^4.0.0-0"
   },
-  "gitHead": "368cd2a069f1528651f119d30e2d9e1505ee3f3e"
+  "gitHead": "7fc9b0b2dd30490ccedad0380cb30e5159375558"
 }
