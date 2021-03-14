@@ -19,5 +19,6 @@
   "homepage": "https://github.com/vuejs/vue-cli/tree/dev/packages/@vue/cli-overlay#readme",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "55533639dfde55668e5ab525a7f471b64d0758d1"
 }
