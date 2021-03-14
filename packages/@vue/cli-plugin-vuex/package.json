@@ -1,19 +1,14 @@
 {
-  "name": "@vue/cli-plugin-vuex",
+  "name": "@vue/cli-plugin-vuex-ttn",
   "version": "0.1.11",
   "description": "Vuex plugin for vue-cli",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vuejs/vue-cli.git",
-    "directory": "packages/@vue/cli-plugin-vuex"
-  },
   "keywords": [
     "vue",
     "cli",
     "vuex"
   ],
-  "author": "Evan You",
+  "author": "TTN",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vuejs/vue-cli/issues"
@@ -28,5 +23,5 @@
   "peerDependencies": {
     "@vue/cli-service": "^3.0.0 || ^4.0.0-0"
   },
-  "gitHead": "b43de38b848f3f23ef285012247fb5c59d011ede"
+  "gitHead": "6e69e8b9ca210d808c21f7a59e6501488eed74e1"
 }
