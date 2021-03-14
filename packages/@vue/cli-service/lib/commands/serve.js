@@ -182,10 +182,9 @@ module.exports = (api, options) => {
       injectClient: false,
       compress: isProduction,
       publicPath: options.publicPath,
-      overlay: false
-      // overlay: isProduction // TODO disable this
-      //   ? false
-      //   : { warnings: false, errors: true }
+      overlay: isProduction // TODO disable this
+        ? false
+        : { warnings: false, errors: true }
     }, projectDevServerOptions, {
       https: useHttps,
       proxy: proxySettings,
