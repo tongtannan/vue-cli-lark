@@ -1,6 +1,6 @@
 {
   "name": "@vue-cli/lark",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "Command line interface for rapid Vue.js development",
   "bin": {
     "vue": "bin/vue.js"
@@ -18,10 +18,10 @@
   "dependencies": {
     "@types/ejs": "^2.7.0",
     "@types/inquirer": "^6.5.0",
-    "@vue/cli-shared-utils": "^0.1.9",
-    "@vue/cli-ui": "^0.1.9",
-    "@vue/cli-ui-addon-webpack": "^0.1.9",
-    "@vue/cli-ui-addon-widgets": "^0.1.9",
+    "@vue/cli-shared-utils": "^0.1.10",
+    "@vue/cli-ui": "^0.1.10",
+    "@vue/cli-ui-addon-webpack": "^0.1.10",
+    "@vue/cli-ui-addon-widgets": "^0.1.10",
     "boxen": "^4.1.0",
     "cmd-shim": "^3.0.3",
     "commander": "^2.20.0",
