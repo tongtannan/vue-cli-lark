@@ -1,6 +1,6 @@
 {
   "name": "cli-service-ttn",
-  "version": "0.1.23",
+  "version": "4.5.11",
   "description": "local service for vue-cli projects",
   "main": "lib/Service.js",
   "typings": "types/index.d.ts",

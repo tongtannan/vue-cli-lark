@@ -1,6 +1,6 @@
 {
   "name": "cli-plugin-eslint-ttn",
-  "version": "0.1.23",
+  "version": "4.5.11",
   "description": "eslint plugin for vue-cli",
   "main": "index.js",
   "keywords": [

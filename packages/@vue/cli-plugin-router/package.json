@@ -1,6 +1,6 @@
 {
   "name": "cli-plugin-router-ttn",
-  "version": "0.1.23",
+  "version": "4.5.11",
   "description": "router plugin for vue-cli",
   "main": "index.js",
   "keywords": [

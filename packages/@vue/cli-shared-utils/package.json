@@ -1,6 +1,6 @@
 {
   "name": "cli-shared-utils-ttn",
-  "version": "0.1.23",
+  "version": "4.5.11",
   "description": "shared utilities for vue-cli packages",
   "main": "index.js",
   "keywords": [
